@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patient_serialization", "Patient_serialization\Patient_serialization.csproj", "{A51030A2-3994-4F56-9E09-F982D8303A6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A51030A2-3994-4F56-9E09-F982D8303A6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51030A2-3994-4F56-9E09-F982D8303A6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51030A2-3994-4F56-9E09-F982D8303A6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51030A2-3994-4F56-9E09-F982D8303A6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81C3A6C1-5425-4185-8A80-4DB1FF7EA657}
+	EndGlobalSection
+EndGlobal
